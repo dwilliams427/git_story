@@ -3,3 +3,5 @@ It should have a file with a very short story (3 to 5 sentences).
 Turn it into a git repository, and make 3 changes, tracking each change with git.
 Now repeat these steps again.
 Now repeat it again
+
+Of course now we must repeat these steps so we can get 3 changes. 
